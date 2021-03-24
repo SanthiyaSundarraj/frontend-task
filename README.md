@@ -1,8 +1,10 @@
 # frontend-task
 
-to run:
-Download the node_module from <>
-And run the code.
+To run we need some dependicies. To download them run the below commands in root diectory.
+  $npm install
+  $npm audit fix
+
+
 
 **OUTPUT**
 
